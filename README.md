@@ -1,8 +1,8 @@
-# Grant Tracker
-## 🧠 Philosophy Behind This Project
+#Sales_TrendAnalysis
 
-This grant tracker is more than a tool—it's a sandbox for learning, iteration, and strategic growth.
-
-I’m embracing spontaneity and acting on what I feel in the moment. Mistakes are expected, welcomed, and treated as feedback loops. When I hit a wall, I step back, reframe the problem, gather context, and dive back in with fresh perspective.
-
-This is how entrepreneurs solve problems—not by knowing everything, but by staying curious, resilient, and intentional.
+Overview
+This project blends data analysis with operational strategy to investigate sales performance within my department at Kroger. Over a four-week period, I tracked weekly sales for two key retail categories: General Merchandise (Drug GM) and Health & Beauty Care (HBC).
+Key Insight
+HBC sales remained relatively stable, while Drug GM showed signs of decline. This contrast prompted a deeper analysis into promotional effectiveness and replenishment patterns for top-selling SKUs in Drug GM.
+Objective
+To identify actionable strategies that could improve Drug GM performance by leveraging insights from HBC’s stability and operational interventions.
