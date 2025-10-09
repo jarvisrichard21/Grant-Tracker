@@ -1,3 +1,4 @@
+
 # Sales_TrendAnalysis
 
 ## Overview
@@ -8,3 +9,6 @@ HBC sales remained relatively stable, while Drug GM showed signs of decline. Thi
 
 ## Objective
 To identify actionable strategies that could improve Drug GM performance by leveraging insights from HBC’s stability and operational interventions.
+
+
+
